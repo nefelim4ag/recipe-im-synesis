@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Timofey Titovets <nefelim4ag@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+  "repository": "https://github.com/Nefelim4ag/recipe-im-synesis",
   "config": {
     "serviceURL": "https://chat.synesis.ru/"
   }
