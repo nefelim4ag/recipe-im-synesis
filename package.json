@@ -1,0 +1,13 @@
+{
+  "id": "imsynesis",
+  "name": "imsynesis",
+  "version": "0.0.1",
+  "description": "im synesis chat",
+  "main": "index.js",
+  "author": "Timofey Titovets <nefelim4ag@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+  "config": {
+    "serviceURL": "https://chat.synesis.ru/"
+  }
+}
